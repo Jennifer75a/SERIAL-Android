@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Copyright (c) 2014 Laird Technologies. All Rights Reserved.
+-->
+
+<resources>
+
+    <string name="app_name">SERIAL demo</string>
+    <string name="version_number">Version 1.0.0.0</string>
+    <string name="copyright">(c) Jennifer AUBINAIS</string>
+    
+    <!-- Scan -->
+    <string name="btn_scan">Scan</string>
+    <string name="btn_connecting">Connecting..</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="label_valid_device_tv">VSP Service Found:</string>
+    
+    <!-- device details -->
+    <string name="device_details">Device Details</string>
+    <string name="name">Name: </string>
+    <string name="address">Address: </string>
+    <string name="RSSI">RSSI: </string>
+
+    <!-- serial -->
+    <string name="console">Console</string>
+    <string name="btn_send">Send</string>
+    <string name="non_applicable">N/A</string>
+
+
+</resources>
